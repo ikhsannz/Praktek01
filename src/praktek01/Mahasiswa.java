@@ -12,11 +12,15 @@ package praktek01;
 public class Mahasiswa {
     String nama;
     String NPM;
+    String ttl;
+    String alamat;
     double IPK;
     
     void cetakInfo () {
-        System.out.println("Nama :"+nama);
-        System.out.println("NPM  :"+NPM);
+        System.out.println("Nama                    :"+nama);
+        System.out.println("NPM                     :"+NPM);
+        System.out.println("Tempat Tanggal Lahir    :"+ttl);
+        System.out.println("Alamat                  :"+alamat);
         System.out.println("IPK  :"+IPK);
     }
 }
