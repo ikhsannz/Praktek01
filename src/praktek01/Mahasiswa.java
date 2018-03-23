@@ -10,8 +10,8 @@ package praktek01;
  * @author ikhsan
  */
 public class Mahasiswa {
-    string nama;
-    string NPM;
+    String nama;
+    String NPM;
     double IPK;
     
     void cetakInfo () {
