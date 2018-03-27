@@ -21,6 +21,7 @@ public class Mahasiswa {
         System.out.println("NPM                     :"+NPM);
         System.out.println("Tempat Tanggal Lahir    :"+ttl);
         System.out.println("Alamat                  :"+alamat);
-        System.out.println("IPK  :"+IPK);
+        System.out.println("IPK                     :"+IPK);
+        System.out.println(" ");
     }
 }
